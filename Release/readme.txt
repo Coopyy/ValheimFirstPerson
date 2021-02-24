@@ -1,0 +1,1 @@
+copy and replace files in this managed folder to the Valheim_Data/managed folder in the games files
