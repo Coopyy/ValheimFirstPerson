@@ -8,6 +8,6 @@ how to install:
 go to the readme in https://github.com/Coopyy/ValheimFirstPerson/tree/master/Release
 
 todo:
-custom key binds
-fov changer
+custom key binds, 
+fov changer, 
 not have player dissapear in first person
