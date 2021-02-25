@@ -1,13 +1,20 @@
-# ValheimFirstPerson
-first person client side mod for Valheim
+# Valheim First Person Mod
 
-really just moves the camera to the player
-toggle key is F
+## Features
 
-how to install:
-go to the readme in https://github.com/Coopyy/ValheimFirstPerson/tree/master/Release
+### Simple Client-Only First Person Mod
+* Changable Perspective Toggle Key
+* Graphical User Interface
+* Third & First Person FOV Changer
+* Hide Player while in first person option
 
-todo:
-custom key binds, 
-fov changer, 
-not have player dissapear in first person
+## Images
+
+![aa](https://cdn.discordapp.com/attachments/747938316556697630/814232645806063636/unknown.png)
+
+![aa](https://cdn.discordapp.com/attachments/747938316556697630/814321659506065408/unknown.png)
+
+
+## Installation
+
+> Copy and Replace the contents of `/Managed` in https://github.com/Coopyy/ValheimFirstPerson/tree/master/Release with the `Valheim_Data/Managed` folder in the game's files
