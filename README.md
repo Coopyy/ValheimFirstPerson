@@ -3,7 +3,7 @@
 ## Features
 
 ### Simple Client-Only First Person Mod
-* Changable Perspective Toggle Key
+* Changeable Perspective Toggle Key
 * Graphical User Interface
 * Third & First Person FOV Changer
 * Hide Player while in first person option
