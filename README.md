@@ -7,6 +7,7 @@
 * Graphical User Interface
 * Third & First Person FOV Changer
 * Hide Player while in first person option
+* Automatically Loads Settings on Game Start
 
 ## Images
 
